@@ -1,0 +1,15 @@
+{
+    "name": "xyluz/a-alaka",
+    "description": "Just testing things out",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Seyi Onifade",
+            "email": "xyluz@ymail.com"
+        }
+    ],
+    "require": {
+        "respect/validation": "^2.4"
+    },
+    ""
+}
